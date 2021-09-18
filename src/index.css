@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  outline: none;
+}
+
+input {
+  outline: none;
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url('./fonts/Montserrat-Medium.ttf');
+}
+
+body {
+  background-color: #f6f6f6;
+  padding-bottom: 5rem;
+}
